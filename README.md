@@ -43,7 +43,7 @@ My choice is Amazon Web Services and DevOps tools.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MedineOzerel&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedineOzerel&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
-
+<img src="https://github.com/MedineOzerel/MedineOzerel/blob/main/giphy.gif" width="auto">
 
 
 
